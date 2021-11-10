@@ -2,7 +2,6 @@
 #-*-coding:utf-8-*-
 # Made With ❤️ By Aang
 import requests,bs4,sys,os,random,time,re,json,concurrent
-import sbf
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 ok = []
 cp = []
